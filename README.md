@@ -13,4 +13,5 @@ Serial No. | Attack Vectors
 **3** | [Unencrypted Private data On-Chain](data/3.md)
 **4** | [Integer Overflow and Underflow](data/4.md)
 **5** | [Floating Pragma](data/5.md)
-
+**6** | [Unchecked Call Return Value](data/6.md)
+**7** | [Unprotected SELFDESTRUCT Instruction](data/7.md)
