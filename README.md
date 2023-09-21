@@ -15,3 +15,7 @@ Serial No. | Attack Vectors
 **5** | [Floating Pragma](data/5.md)
 **6** | [Unchecked Call Return Value](data/6.md)
 **7** | [Unprotected SELFDESTRUCT Instruction](data/7.md)
+**8** | [State Variable Default Visibility](data/8.md)
+**9** | [Uninitialized Storage Pointer](data/9.md)
+**10** | [Use of Deprecated Solidity Functions](data/10.md)
+**11** | [DoS with Failed Call ](data/11.md)
