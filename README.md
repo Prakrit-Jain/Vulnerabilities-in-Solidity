@@ -11,4 +11,6 @@ Serial No. | Attack Vectors
 **1** | [Reentrancy](data/1.md)
 **2** | [Code With No Effects](data/2.md)
 **3** | [Unencrypted Private data On-Chain](data/3.md)
+**4** | [Integer Overflow and Underflow](data/4.md)
+**5** | [Floating Pragma](data/5.md)
 
