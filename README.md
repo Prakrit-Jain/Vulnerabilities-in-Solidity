@@ -19,3 +19,5 @@ Serial No. | Attack Vectors
 **9** | [Uninitialized Storage Pointer](data/9.md)
 **10** | [Use of Deprecated Solidity Functions](data/10.md)
 **11** | [DoS with Failed Call ](data/11.md)
+**12** | [Price Oracle Manipulation](data/12.md)
+**13** | [Message call with hardcoded gas amount](data/13.md)
